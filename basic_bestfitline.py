@@ -76,6 +76,7 @@ print("************************************************")
 print(" ")
 print("Final Model Predicted Line Stats:")
 print("Slope:" , m , " ;Y intercept" , b)
+print("new version")
 
 plt.plot(x,z,color='green')
 plt.scatter(x,y)
